@@ -96,5 +96,8 @@ brew install tree
 brew install vbindiff
 brew install zopfli
 
+# Casks
+brew cask install iterm2
+
 # Remove outdated versions from the cellar.
 brew cleanup
