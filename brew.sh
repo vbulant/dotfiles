@@ -95,6 +95,7 @@ brew install ssh-copy-id
 brew install tree
 brew install vbindiff
 brew install zopfli
+brew install fnm
 
 # Casks
 brew cask install iterm2
