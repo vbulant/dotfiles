@@ -99,7 +99,7 @@ brew install zopfli
 brew install fnm
 
 # Casks
-brew cask install iterm2
+brew install --cask iterm2
 
 # Remove outdated versions from the cellar.
 brew cleanup
